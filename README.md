@@ -62,5 +62,3 @@ To quickly execute all the commands at once, copy and paste the following:
 
 ```bash
 sudo apt-get update && sudo apt-get install git -y && git clone https://github.com/richardjanderson9/project-cleanup && cd project-cleanup && chmod +x cleanup.sh && sudo ./cleanup.sh
-
-## Made with Love using ChatGPT!
